@@ -63,3 +63,7 @@
 
 ![최신관리](https://github.com/higggu/higggu/assets/126428422/07e0b734-b310-40b1-a4a2-14158cc972dc)
 
+
+
+## ERD
+![ERD](https://github.com/higggu/higggu/assets/126428422/ac4a0bff-11a9-443e-9d7b-158675299618)
