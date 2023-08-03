@@ -59,3 +59,7 @@
 
 ##  흐름도
 ![마무리 페이지 흐름도 1 drawio](https://github.com/higggu/higggu/assets/126428422/81aa92de-cc62-4342-a8c4-7ef6b8ecaedb)
+
+
+![최신관리](https://github.com/higggu/higggu/assets/126428422/07e0b734-b310-40b1-a4a2-14158cc972dc)
+
