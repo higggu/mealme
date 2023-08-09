@@ -98,7 +98,7 @@
 
  ## 📌 내가 맡은 서비스
 
-### 개인 컨설팅 목록  <a href="" >상세보기 - WIKI 이동</a>
+### 개인 컨설팅 목록  <a href="https://github.com/higggu/mealme.wiki.git" >상세보기 - WIKI 이동</a>
 
 ### 컨설팅(개인)  <a href="" >상세보기 - WIKI 이동</a>
 
