@@ -100,7 +100,7 @@
 
 ### 개인 컨설팅 목록   ->   <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EB%AA%A9%EB%A1%9D-(%EA%B0%9C%EC%9D%B8)" >상세보기 - WIKI 이동</a>
 
-### 컨설팅(개인)     ->  <a href="" >상세보기 - WIKI 이동</a>
+### 컨설팅(개인)     ->  <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EA%B0%9C%EC%9D%B8-%EC%8B%A0%EC%B2%AD-%EB%AA%A9%EB%A1%9D" >상세보기 - WIKI 이동</a>
 
 ### 기업 컨설팅 목록     -> <a href="" >상세보기 - WIKI 이동</a>
 
