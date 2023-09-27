@@ -98,13 +98,11 @@
 
  ## 📌 내가 맡은 서비스
 
-### 개인 컨설팅 목록   ->   <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EB%AA%A9%EB%A1%9D-(%EA%B0%9C%EC%9D%B8)" >상세보기 - WIKI 이동</a>
+### 개인 컨설팅 목록   ->   <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EA%B0%9C%EC%9D%B8-%EC%8B%A0%EC%B2%AD-%EB%AA%A9%EB%A1%9D" >상세보기 - WIKI 이동</a>
 
-### 컨설팅(개인)     ->  <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EA%B0%9C%EC%9D%B8-%EC%8B%A0%EC%B2%AD-%EB%AA%A9%EB%A1%9D" >상세보기 - WIKI 이동</a>
+### 기업 컨설팅 목록    -> <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EA%B8%B0%EC%97%85-%EB%AA%A9%EB%A1%9D" >상세보기 - WIKI 이동</a>
 
-### 기업 컨설팅 목록     -> <a href="" >상세보기 - WIKI 이동</a>
-
-### 컨설팅(기업)     -> <a href="" >상세보기 - WIKI 이동</a>
+### 컨설팅 읽기 및 답변 , 답변 수정 삭제   -> <a href="https://github.com/higggu/mealme/wiki/%EC%BB%A8%EC%84%A4%ED%8C%85-%EC%9D%BD%EA%B8%B0-%EB%B0%8F-%EB%8B%B5%EB%B3%80,-%EB%8B%B5%EB%B3%80-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C" >상세보기 - WIKI 이동</a>
 
 
 
